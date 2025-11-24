@@ -8,6 +8,9 @@ The report integrates FACT/DIM tables, ML-generated predicted prices, AI visuals
 - *How do brands, fuel types, and transmissions compare?*
 - *What factors most influence resale price?*
 
+## 📸 Dashboard Preview
+
+![Used Car Price Intelligence Dashboard](screenshots/used%20car%20price%20intelligence.png)
 ---
 
 ##  Project Structure
